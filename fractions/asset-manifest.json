@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fractions/static/css/main.67143968.chunk.css",
+    "main.js": "/fractions/static/js/main.283e086a.chunk.js",
+    "main.js.map": "/fractions/static/js/main.283e086a.chunk.js.map",
+    "runtime~main.js": "/fractions/static/js/runtime~main.1370d3e3.js",
+    "runtime~main.js.map": "/fractions/static/js/runtime~main.1370d3e3.js.map",
+    "static/js/2.8ecfd2d1.chunk.js": "/fractions/static/js/2.8ecfd2d1.chunk.js",
+    "static/js/2.8ecfd2d1.chunk.js.map": "/fractions/static/js/2.8ecfd2d1.chunk.js.map",
+    "index.html": "/fractions/index.html",
+    "precache-manifest.cc76f5931bd42d3dbd954e1cafac250d.js": "/fractions/precache-manifest.cc76f5931bd42d3dbd954e1cafac250d.js",
+    "service-worker.js": "/fractions/service-worker.js",
+    "static/css/main.67143968.chunk.css.map": "/fractions/static/css/main.67143968.chunk.css.map",
+    "static/media/tokopedia.png": "/fractions/static/media/tokopedia.592dffb1.png"
+  }
+}
